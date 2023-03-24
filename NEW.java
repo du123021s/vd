@@ -5,5 +5,6 @@ public class NEW extends JFrame {
         this.setSize(600,400);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
+        this.setVisible(true);
     }
 }
